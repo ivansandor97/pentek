@@ -1,0 +1,2 @@
+# pentek
+ubuntu, ngnix
